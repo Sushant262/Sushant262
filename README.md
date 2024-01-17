@@ -1,4 +1,4 @@
-[![MasterHead](https://images.hdqwalls.com/download/neon-abyss-game-no-800x1280.jpg)
+![MasterHead](https://images.hdqwalls.com/download/neon-abyss-game-no-800x1280.jpg)
 
 <h1 align="center">Hi 👋, I'm Sushant Pawar</h1>
 <h3 align="center">I am a Gaming Enthusiast who likes to create games with a passion for game development .</h3>
