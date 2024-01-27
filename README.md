@@ -19,7 +19,7 @@
 
 - 📫 You can reach me at  **sushantspawar26@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/file/d/1sYQ-ER5YWC3-9HCfmskpJTLTlsyK3f_j/view?usp=drivesdk](https://drive.google.com/file/d/1sYQ-ER5YWC3-9HCfmskpJTLTlsyK3f_j/view?usp=drivesdk)
+- 📄 My Resume [https://https://www.canva.com/design/DAF1dcKia8Q/DBqexleFAJQ2LEEGn0EMYw/view?utm_content=DAF1dcKia8Q&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 - ⚡  **I hope you will like my content**
 
