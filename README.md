@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/sushantportfolio/home](https://sites.google.com/view/sushantportfolio/home)
 
-- 💬 Ask me about **Gaming & Game Development**
+- 💬 Ask me about **Gaming & Game Design/Development**
 
 - 📫 You can reach me at  **sushantspawar26@gmail.com**
 
