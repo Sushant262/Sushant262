@@ -1,7 +1,7 @@
 ![MasterHead](https://images.hdqwalls.com/download/neon-abyss-game-no-800x1280.jpg)
 
 <h1 align="center">Hi 👋, I'm Sushant Pawar</h1>
-<h3 align="center">I am a Gaming Enthusiast who likes to create games with a passion for game development .</h3>
+<h3 align="center">I am a Gaming Enthusiast who likes to create games with a passion for game designing .</h3>
 <img align="right" alt="Coding" width="400" src="https://ardas-it.com/uploads/images/blogs/giph.gif">
 
 
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Various Games**
 
-- 🌱 Currently learning **Game Development**
+- 🌱 Currently learning **Game Designing**
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/sushantportfolio/home](https://sites.google.com/view/sushantportfolio/home)
 
